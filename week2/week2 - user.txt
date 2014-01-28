@@ -1,0 +1,3 @@
+IP: 166.78.184.183
+
+login, pw, and port same as assignment instructions
